@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Hai\.nuget\packages\spire.pdf.netcore\7.12.1\lib\netcoreapp3.0\Spire.License.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Hai\.nuget\packages\spire.doc\12.5.5\lib\net6.0\Spire.Doc.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Hai\.nuget\packages\cete.dynamicpdf.converter.net\3.19.0\lib\netstandard20\DynamicPDF.Converter.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
